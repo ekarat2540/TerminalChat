@@ -1,0 +1,15 @@
+C:\.netTest\TerminalChat\TerminalChat\bin\Debug\net6.0\TerminalChat.exe
+C:\.netTest\TerminalChat\TerminalChat\bin\Debug\net6.0\TerminalChat.deps.json
+C:\.netTest\TerminalChat\TerminalChat\bin\Debug\net6.0\TerminalChat.runtimeconfig.json
+C:\.netTest\TerminalChat\TerminalChat\bin\Debug\net6.0\TerminalChat.dll
+C:\.netTest\TerminalChat\TerminalChat\bin\Debug\net6.0\TerminalChat.pdb
+C:\.netTest\TerminalChat\TerminalChat\obj\Debug\net6.0\TerminalChat.csproj.AssemblyReference.cache
+C:\.netTest\TerminalChat\TerminalChat\obj\Debug\net6.0\TerminalChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\.netTest\TerminalChat\TerminalChat\obj\Debug\net6.0\TerminalChat.AssemblyInfoInputs.cache
+C:\.netTest\TerminalChat\TerminalChat\obj\Debug\net6.0\TerminalChat.AssemblyInfo.cs
+C:\.netTest\TerminalChat\TerminalChat\obj\Debug\net6.0\TerminalChat.csproj.CoreCompileInputs.cache
+C:\.netTest\TerminalChat\TerminalChat\obj\Debug\net6.0\TerminalChat.dll
+C:\.netTest\TerminalChat\TerminalChat\obj\Debug\net6.0\refint\TerminalChat.dll
+C:\.netTest\TerminalChat\TerminalChat\obj\Debug\net6.0\TerminalChat.pdb
+C:\.netTest\TerminalChat\TerminalChat\obj\Debug\net6.0\TerminalChat.genruntimeconfig.cache
+C:\.netTest\TerminalChat\TerminalChat\obj\Debug\net6.0\ref\TerminalChat.dll
