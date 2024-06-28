@@ -6,16 +6,16 @@ class Sender {
         try
         {
             Console.WriteLine("Enter messagge here");
-            TcpClient client = new TcpClient();
+            TcpClient client = new TcpClient("192.168.1.100",5713);
             NetworkStream stream = client.GetStream();
             StreamWriter writer = new StreamWriter(stream);
-            string message = Console.ReadLine();
-            while(message != null)
+            string message;
+            while ((message = Console.ReadLine()) != "exit")
             {
                 writer.WriteLine(message);
                 writer.Flush();
             }
-            
+
         }
         catch (Exception e)
         {
