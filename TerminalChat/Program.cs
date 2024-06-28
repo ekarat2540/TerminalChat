@@ -6,7 +6,7 @@ class Sender {
         try
         {
             Console.WriteLine("Enter messagge here");
-            TcpClient client = new TcpClient("192.168.1.100",5713);
+            TcpClient client = new TcpClient("192.168.1.106",5713);
             NetworkStream stream = client.GetStream();
             StreamWriter writer = new StreamWriter(stream);
             string message;
@@ -15,6 +15,9 @@ class Sender {
                 writer.WriteLine(message);
                 writer.Flush();
             }
+            client.Close();
+            stream.Close();
+            writer.Close();
 
         }
         catch (Exception e)
